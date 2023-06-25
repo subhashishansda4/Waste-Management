@@ -18,7 +18,7 @@ Entire process of how to classify waste into organic or recyclable using tools l
 ![5](https://github.com/subhashishansda4/Waste-Management/blob/main/assets/5.png)
 
 ### t-SNE
-
+https://github.com/subhashishansda4/Waste-Management/assets/84849423/ea5012d0-6249-4b03-98f7-f21b1341e873
 
 ### Machine Learning Metrics
 ![6](https://github.com/subhashishansda4/Waste-Management/blob/main/assets/6.png)
